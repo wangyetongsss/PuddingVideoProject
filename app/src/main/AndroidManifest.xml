@@ -20,6 +20,22 @@
             android:name=".Activity.WelcomeActivity"
             android:label="@string/title_activity_welcome" >
         </activity>
+        <activity
+            android:name=".Activity.ActivitySearch"
+            android:label="@string/title_activity_search" >
+        </activity>
+        <activity
+            android:name=".Activity.ActivityTime"
+            android:label="@string/title_activity_activity_time" >
+        </activity>
+        <activity
+            android:name=".Activity.ActivityCyber"
+            android:label="@string/title_activity_activity_cyber" >
+        </activity>
+        <activity
+            android:name=".Activity.ActivityMine"
+            android:label="@string/title_activity_activity_mine" >
+        </activity>
     </application>
 
 </manifest>

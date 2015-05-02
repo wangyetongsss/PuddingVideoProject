@@ -21,19 +21,19 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="15dp"
-            android:src="@drawable/page_now" />
+            android:src="@mipmap/page_now" />
 
         <ImageView
             android:id="@+id/image2_welcome"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="15dp"
-            android:src="@drawable/page" />
+            android:src="@mipmap/page" />
 
         <ImageView
             android:id="@+id/image3_welcome"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/page" />
+            android:src="@mipmap/page" />
     </LinearLayout>
 </RelativeLayout>
